@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MuSync</string>
+    <string name="title_activity_get_name">GetNameActivity</string>
+    <string name="title_activity_home_screen">HomeScreen</string>
+</resources>
